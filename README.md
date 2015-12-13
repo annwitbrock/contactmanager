@@ -9,6 +9,12 @@ It will help you import contact lists from various sources, merge them and expor
 **NB This program is not complete**
 Expect change.
 
+###The app currently supports :
+- **Platforms:** None
+- **Import formats:** None
+- **Export formats:** None
+- **Capability:** None
+
 ====
 #### Contributing
 - I'll happily look at pull requests for anything on the issues tab, some are intended to be very easy for novice contributers.
@@ -39,3 +45,5 @@ python -m unittest test_system_functions
 #### Licencing
 - The intention is for this project to remain open source. Maybe we will make a fork to produce a sellable (very cheap) product. From that point, any code from here will be used freely without limitation or obligation - respecting the rights of any dependency it may use.
 - If it looks like we aren't respecting a dependency properly, please do let us know in a helpful way. Thanks.
+
+
