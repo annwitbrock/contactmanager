@@ -4,7 +4,8 @@
 ====
 
 This is an app to manage contact lists.
-It will help you import contact lists from various sources, merge them and export to verious formats.
+It will help you import your own contacts from your various sources, keep a master list and backup, tidy them up, filter them and export them back to various formats.
+If the magic of sync isn't for you, this might be.
 
 **NB This program is not complete**
 Expect change.
