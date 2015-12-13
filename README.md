@@ -21,7 +21,7 @@ Expect change.
 - I'll happily look at pull requests for anything on the issues tab, some are intended to be very easy for novice contributers.
 - I'll top up the issues list.
 - I'll also look at any requests for fulfilling any test that is outlined. I haven't looked them over recently, but consider them 'requirements'. You may need to figure out which is the chicken and egg.
-- Be a little patient on response, but if I haven't seen it, do nudge me on once twitter @annwitbrock so I know it's waiting.
+- Be a little patient on response, but if I haven't seen it, do nudge me once on twitter @annwitbrock so I know it's waiting.
 
 #### Testing
 To run every test, use the discover option:
