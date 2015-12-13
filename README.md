@@ -43,7 +43,7 @@ python -m unittest test_system_functions
 - Respect the licensing rights of any code you borrow or any dependency. Include a link or reference to the original source in the commit message. You are responsible for what is initially committed by you.
 - Keep all the tests running.
 
-#### Code of Conduct
+#### Conduct
  - see the wiki. TLDR: be nice, be inclusive.
 
 #### Licencing
