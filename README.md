@@ -32,7 +32,7 @@ python -m unittest test_system_functions
 - One issue -> one pull request. Keep it simple.
 - Commit small increments of success, with a clear message.
 - Merge latest contributions fully into your code before making a pull request. Ask someone if you need help.
-- Try to make your code as 'Clean' as possible before requesting. Linting it is always helpful too.
+- Please make your code technically 'Clean'. Lint and prettify are always helpful too.
 - Respect the licensing rights of any code you borrow or any dependency. Include a link or reference to the original source in the commit message. You are responsible for what is initially committed by you.
 - Keep all the tests running.
 
