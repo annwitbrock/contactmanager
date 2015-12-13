@@ -50,6 +50,7 @@ python -m unittest test_system_functions
 - The intention is for this project to remain open source. Maybe we will make a fork to produce a sellable (very cheap) product. From that point, any code from here will be used freely without limitation or obligation - respecting the rights of any dependency it may use.
 - No-one may create a patent, copyright or other IP assertion that prevents the use of this code or product design or concept by the contributers, or by anyone who has received a product based on this code and design, at any point in its development.
 - A formal standard license will be posted at some point.
+- UK jurisdiction.
 - If it looks like we aren't respecting a dependency properly, please do let us know in a helpful way. Thanks.
 
 
