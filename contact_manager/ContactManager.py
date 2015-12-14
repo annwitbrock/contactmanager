@@ -1,11 +1,11 @@
 class ContactManager(object):
     def __init__(self):
-        self.contact_list = []
+        self.contacts = []
 
     def contacts(self):
-        return self.contact_list
+        return self.contacts
 
     def add_contact(self, contact):
-        self.contact_list.append(contact)
+        self.contacts.append(contact)
 
 
